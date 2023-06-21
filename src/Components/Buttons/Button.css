@@ -17,15 +17,19 @@
 
 .btn.add {
     background-color: var(--primary-color);
+    color: #fff;
+    font-size: 14px;
 }
 
 .btn.remove {
     background-color: tomato;
+    color: #fff;
+    font-size: 14px;
 }
 
 .btn.checkout {
     background-color: rgb(38, 121, 38);
-    width: 150px;
+   /* width: 150px; */
     color: #fff;
     font-size: 14px;
 }
